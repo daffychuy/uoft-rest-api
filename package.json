@@ -1,0 +1,31 @@
+{
+  "name": "uoft-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daffychuy/uoft-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daffychuy/uoft-rest-api/issues"
+  },
+  "homepage": "https://github.com/daffychuy/uoft-rest-api#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2",
+    "nodemon": "^2.0.2",
+    "request-debug": "^0.2.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "tough-cookie": "^3.0.1"
+  }
+}
